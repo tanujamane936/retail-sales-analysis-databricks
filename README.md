@@ -12,11 +12,11 @@ Databricks, SQL, Unity Catalog, AI/BI Dashboard
 - Built an AI/BI dashboard for sales insights
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard%20.png)
 
 ## Project Files
 - `sql/analysis_queries.sql` – SQL queries used
-- `screenshots/` – dashboard and Unity Catalog images
+- `Dashboard .png` – dashboard screenshot
 
 ## Author
 Tanuja Mane
